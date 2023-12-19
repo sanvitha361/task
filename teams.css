@@ -1,0 +1,40 @@
+body {
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main {
+    margin-top: 10% !important;
+    margin-bottom: 9% !important;
+    border: 3px solid black;
+}
+.team1{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 1px !important;
+}
+.latest-news {
+    border: 1px solid;
+    padding-left: 20px !important;
+    background-color: rgb(45, 43, 43);
+    color: white;
+    font-style: italic;
+}
+.team2{
+    background-color: black;
+    color: white;
+}
+.card-img-top{
+    border: 5px solid black;
+    padding: auto;
+}
+.GAME-SECHEDULE {
+    border: 2px dotted;
+    padding-left: 20px !important;
+    background-color: rgb(49, 47, 47);
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}

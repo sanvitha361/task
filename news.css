@@ -1,0 +1,35 @@
+body {
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    border: 5px solid black;
+}
+.latest-news {
+    border: 1px solid;
+    padding-left: 20px !important;
+    background-color: rgb(45, 43, 43);
+    color: white;
+    font-style: italic;
+
+}
+.GAME-SECHEDULE {
+    border: 2px dotted;
+    padding-left: 20px !important;
+    background-color: rgb(49, 47, 47);
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+.LATEST-TWEETS {
+    border: 1px dotted black;
+    padding-left: 20px !important;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(32, 31, 31);
+    color: white;
+}
+.foot{
+    background-color: black;
+}
